@@ -1,7 +1,8 @@
 module.exports = {
-    TOKEN: 'NjEyMzIwNTQzNzE4NTA2NTE4.XVgqbw.Kak8kr6r_cjIBjhQx_LRAJa1yms',
+    TOKEN: 'token',
     YT_API_KEY: 'api ', 
     prefix: 'bg',
-  devs: ['442793591501357056']
+  devs: ['id']
 }
 
+//By hadi🇱🇧
